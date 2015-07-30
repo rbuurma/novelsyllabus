@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2015-07-21">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Don Quixote" label="Don Quixote">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="537.396" y="-565.55176" z="0.0"></viz:position>
+        <viz:color r="209" g="18" b="243"></viz:color>
+      </node>
+      <node id="Michel Foucault" label="Michel Foucault">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="507.7137" y="-482.18063" z="0.0"></viz:position>
+        <viz:color r="251" g="189" b="6"></viz:color>
+      </node>
+      <node id="Oroonoko" label="Oroonoko">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="18.636364"></viz:size>
+        <viz:position x="401.71774" y="569.05634" z="0.0"></viz:position>
+        <viz:color r="213" g="6" b="251"></viz:color>
+      </node>
+      <node id="Clifford Geertz" label="Clifford Geertz">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="357.7219" y="688.3961" z="0.0"></viz:position>
+        <viz:color r="251" g="189" b="6"></viz:color>
+      </node>
+      <node id="Robinson Crusoe" label="Robinson Crusoe">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+        </attvalues>
+        <viz:size value="29.545454"></viz:size>
+        <viz:position x="-125.50507" y="-522.2266" z="0.0"></viz:position>
+        <viz:color r="215" g="3" b="253"></viz:color>
+      </node>
+      <node id="John Bender" label="John Bender">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-258.47842" y="-563.0286" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="Moll Flanders" label="Moll Flanders">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.181818"></viz:size>
+        <viz:position x="55.205917" y="-395.0228" z="0.0"></viz:position>
+        <viz:color r="215" g="3" b="253"></viz:color>
+      </node>
+      <node id="Raymond Williams" label="Raymond Williams">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="174.6109" y="-391.4372" z="0.0"></viz:position>
+        <viz:color r="249" g="189" b="9"></viz:color>
+      </node>
+      <node id="Love in Excess" label="Love in Excess">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="126.17488" y="-341.54294" z="0.0"></viz:position>
+        <viz:color r="211" g="13" b="247"></viz:color>
+      </node>
+      <node id="William Warner" label="William Warner">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="15.909091"></viz:size>
+        <viz:position x="232.72134" y="-79.1628" z="0.0"></viz:position>
+        <viz:color r="254" g="180" b="7"></viz:color>
+      </node>
+      <node id="J. Paul Hunter" label="J. Paul Hunter">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="234.4389" y="-356.3155" z="0.0"></viz:position>
+        <viz:color r="249" g="189" b="9"></viz:color>
+      </node>
+      <node id="Pamela" label="Pamela">
+        <attvalues>
+          <attvalue for="degree" value="19"></attvalue>
+          <attvalue for="weighted degree" value="23.0"></attvalue>
+        </attvalues>
+        <viz:size value="65.0"></viz:size>
+        <viz:position x="282.51108" y="-283.19724" z="0.0"></viz:position>
+        <viz:color r="210" g="0" b="255"></viz:color>
+      </node>
+      <node id="James Turner" label="James Turner">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="575.7029" y="-324.46478" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="Sheila Conboy" label="Sheila Conboy">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="400.6637" y="-268.57288" z="0.0"></viz:position>
+        <viz:color r="249" g="189" b="9"></viz:color>
+      </node>
+      <node id="Jurgen Habermas" label="Jurgen Habermas">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="15.909091"></viz:size>
+        <viz:position x="294.58698" y="-105.59935" z="0.0"></viz:position>
+        <viz:color r="255" g="190" b="1"></viz:color>
+      </node>
+      <node id="Tom Jones" label="Tom Jones">
+        <attvalues>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+        </attvalues>
+        <viz:size value="24.090908"></viz:size>
+        <viz:position x="-124.306274" y="-200.1353" z="0.0"></viz:position>
+        <viz:color r="215" g="2" b="254"></viz:color>
+      </node>
+      <node id="Terry Eagleton" label="Terry Eagleton">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-6.7449126" y="-200.11356" z="0.0"></viz:position>
+        <viz:color r="254" g="183" b="5"></viz:color>
+      </node>
+      <node id="Jill Campbell" label="Jill Campbell">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-233.26802" y="-137.06648" z="0.0"></viz:position>
+        <viz:color r="253" g="190" b="3"></viz:color>
+      </node>
+      <node id="Roy Porter" label="Roy Porter">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-197.24297" y="-104.82093" z="0.0"></viz:position>
+        <viz:color r="251" g="189" b="6"></viz:color>
+      </node>
+      <node id="Castle of Otranto" label="Castle of Otranto">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="462.3386" y="422.77548" z="0.0"></viz:position>
+        <viz:color r="213" g="6" b="251"></viz:color>
+      </node>
+      <node id="Walter Benjamin" label="Walter Benjamin">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="543.1764" y="508.258" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="A Sicillian Romance" label="A Sicillian Romance">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="185.9023" y="385.48505" z="0.0"></viz:position>
+        <viz:color r="213" g="6" b="251"></viz:color>
+      </node>
+      <node id="Kate Ellis" label="Kate Ellis">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="130.00955" y="279.99942" z="0.0"></viz:position>
+        <viz:color r="249" g="189" b="9"></viz:color>
+      </node>
+      <node id="Northanger Abbey" label="Northanger Abbey">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="265.67352" y="-14.730324" z="0.0"></viz:position>
+        <viz:color r="234" g="13" b="247"></viz:color>
+      </node>
+      <node id="Nancy Armstrong" label="Nancy Armstrong">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="15.909091"></viz:size>
+        <viz:position x="432.1416" y="-9.656901" z="0.0"></viz:position>
+        <viz:color r="251" g="189" b="6"></viz:color>
+      </node>
+      <node id="Ian Watt" label="Ian Watt">
+        <attvalues>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="16.0"></attvalue>
+        </attvalues>
+        <viz:size value="45.909092"></viz:size>
+        <viz:position x="53.04044" y="-292.78128" z="0.0"></viz:position>
+        <viz:color r="255" g="186" b="1"></viz:color>
+      </node>
+      <node id="Shamela" label="Shamela">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="-147.12064" y="-387.9964" z="0.0"></viz:position>
+        <viz:color r="212" g="9" b="249"></viz:color>
+      </node>
+      <node id="Michael McKeon" label="Michael McKeon">
+        <attvalues>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+        </attvalues>
+        <viz:size value="21.363636"></viz:size>
+        <viz:position x="-47.05751" y="-342.48245" z="0.0"></viz:position>
+        <viz:color r="253" g="190" b="3"></viz:color>
+      </node>
+      <node id="Evelina" label="Evelina">
+        <attvalues>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="12.0"></attvalue>
+        </attvalues>
+        <viz:size value="35.0"></viz:size>
+        <viz:position x="199.01271" y="26.552345" z="0.0"></viz:position>
+        <viz:color r="211" g="1" b="254"></viz:color>
+      </node>
+      <node id="Roland Barthes" label="Roland Barthes">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="84.58395" y="-60.36933" z="0.0"></viz:position>
+        <viz:color r="254" g="180" b="7"></viz:color>
+      </node>
+      <node id="Pickwick Papers" label="Pickwick Papers">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="83.959526" y="243.2079" z="0.0"></viz:position>
+        <viz:color r="213" g="6" b="251"></viz:color>
+      </node>
+      <node id="Benedict Anderson" label="Benedict Anderson">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="94.142914" y="367.22308" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="The Moonstone" label="The Moonstone">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="684.9428" y="-634.41064" z="0.0"></viz:position>
+        <viz:color r="215" g="3" b="253"></viz:color>
+      </node>
+      <node id="D. A. Miller" label="D. A. Miller">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="805.7589" y="-699.42456" z="0.0"></viz:position>
+        <viz:color r="251" g="189" b="6"></viz:color>
+      </node>
+      <node id="Edward Said" label="Edward Said">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="766.7485" y="-745.8757" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="Ulysses" label="Ulysses">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="207.37425" y="328.12048" z="0.0"></viz:position>
+        <viz:color r="212" g="9" b="249"></viz:color>
+      </node>
+      <node id="Fredric Jameson" label="Fredric Jameson">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="297.82718" y="370.65845" z="0.0"></viz:position>
+        <viz:color r="243" g="187" b="18"></viz:color>
+      </node>
+      <node id="A House for Mr. Biswas" label="A House for Mr. Biswas">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="207.3487" y="-590.93536" z="0.0"></viz:position>
+        <viz:color r="215" g="3" b="253"></viz:color>
+      </node>
+      <node id="Homi Bhabha" label="Homi Bhabha">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="313.5066" y="-497.83228" z="0.0"></viz:position>
+        <viz:color r="243" g="187" b="18"></viz:color>
+      </node>
+      <node id="Julie Park" label="Julie Park">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="95.12687" y="-105.1769" z="0.0"></viz:position>
+        <viz:color r="252" g="180" b="9"></viz:color>
+      </node>
+      <node id="G. J. Barker-Benfield" label="G. J. Barker-Benfield">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="421.50662" y="-331.68356" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="Catherine Ingrassia" label="Catherine Ingrassia">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="454.921" y="-229.4672" z="0.0"></viz:position>
+        <viz:color r="252" g="190" b="4"></viz:color>
+      </node>
+      <node id="J. Rosenthal" label="J. Rosenthal">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="325.06" y="-374.56747" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="Patricia C. Bruckmann" label="Patricia C. Bruckmann">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="406.47247" y="-452.99374" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="Terry Castle" label="Terry Castle">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="477.6406" y="-398.38528" z="0.0"></viz:position>
+        <viz:color r="249" g="189" b="9"></viz:color>
+      </node>
+      <node id="Lori Errico-Seaman and Olivera Jokic" label="Lori Errico-Seaman and Olivera Jokic">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="283.31293" y="-418.2236" z="0.0"></viz:position>
+        <viz:color r="249" g="189" b="9"></viz:color>
+      </node>
+      <node id="Anti-Pamela" label="Anti-Pamela">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="561.5653" y="-166.9321" z="0.0"></viz:position>
+        <viz:color r="214" g="4" b="252"></viz:color>
+      </node>
+      <node id="Carol Lozzaro-Weis" label="Carol Lozzaro-Weis">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="709.5063" y="-133.58688" z="0.0"></viz:position>
+        <viz:color r="251" g="189" b="6"></viz:color>
+      </node>
+      <node id="The Woman of Colour" label="The Woman of Colour">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="675.9578" y="-258.51056" z="0.0"></viz:position>
+        <viz:color r="215" g="2" b="254"></viz:color>
+      </node>
+      <node id="Victim of Prejudice" label="Victim of Prejudice">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="230.9074" y="-480.6995" z="0.0"></viz:position>
+        <viz:color r="212" g="9" b="249"></viz:color>
+      </node>
+      <node id="Antony E. Simpson" label="Antony E. Simpson">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="129.23401" y="-505.4433" z="0.0"></viz:position>
+        <viz:color r="243" g="187" b="18"></viz:color>
+      </node>
+      <node id="Sarah Ahmed" label="Sarah Ahmed">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="168.06091" y="-536.74084" z="0.0"></viz:position>
+        <viz:color r="243" g="187" b="18"></viz:color>
+      </node>
+      <node id="Jack Halberstam" label="Jack Halberstam">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="126.93665" y="-463.6508" z="0.0"></viz:position>
+        <viz:color r="249" g="189" b="9"></viz:color>
+      </node>
+      <node id="The History of Pompey the Little" label="The History of Pompey the Little">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="-13.526043" y="18.481216" z="0.0"></viz:position>
+        <viz:color r="237" g="6" b="251"></viz:color>
+      </node>
+      <node id="Mark Blackwell" label="Mark Blackwell">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-115.29218" y="121.57196" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="John Locke" label="John Locke">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-225.2737" y="-661.3663" z="0.0"></viz:position>
+        <viz:color r="249" g="189" b="9"></viz:color>
+      </node>
+      <node id="Adam Smith" label="Adam Smith">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-160.24588" y="-675.40656" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="Karl Marx" label="Karl Marx">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-257.48996" y="-621.56146" z="0.0"></viz:position>
+        <viz:color r="251" g="189" b="6"></viz:color>
+      </node>
+      <node id="Jean Jacques Rousseau" label="Jean Jacques Rousseau">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-120.22635" y="-645.7061" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="Max Weber" label="Max Weber">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-237.33595" y="-484.7271" z="0.0"></viz:position>
+        <viz:color r="249" g="189" b="9"></viz:color>
+      </node>
+      <node id="Mikhail Bakhtin" label="Mikhail Bakhtin">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.181818"></viz:size>
+        <viz:position x="-309.75" y="-266.85068" z="0.0"></viz:position>
+        <viz:color r="214" g="4" b="252"></viz:color>
+      </node>
+      <node id="Joseph Andrews" label="Joseph Andrews">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.181818"></viz:size>
+        <viz:position x="-145.92525" y="-313.64642" z="0.0"></viz:position>
+        <viz:color r="213" g="6" b="251"></viz:color>
+      </node>
+      <node id="Georg Lukacs" label="Georg Lukacs">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-284.7536" y="-360.8111" z="0.0"></viz:position>
+        <viz:color r="238" g="185" b="26"></viz:color>
+      </node>
+      <node id="E.P. Thompson" label="E.P. Thompson">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="239.84181" y="155.31734" z="0.0"></viz:position>
+        <viz:color r="243" g="187" b="18"></viz:color>
+      </node>
+      <node id="Alan Macfarlane" label="Alan Macfarlane">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="98.78365" y="120.11703" z="0.0"></viz:position>
+        <viz:color r="243" g="187" b="18"></viz:color>
+      </node>
+      <node id="Fantomina" label="Fantomina">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.181818"></viz:size>
+        <viz:position x="76.50648" y="-164.44833" z="0.0"></viz:position>
+        <viz:color r="212" g="9" b="249"></viz:color>
+      </node>
+      <node id="Tristram Shandy" label="Tristram Shandy">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="55.806595" y="-528.19025" z="0.0"></viz:position>
+        <viz:color r="212" g="9" b="249"></viz:color>
+      </node>
+      <node id="Roxana" label="Roxana">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="670.1948" y="-34.827633" z="0.0"></viz:position>
+        <viz:color r="213" g="6" b="251"></viz:color>
+      </node>
+      <node id="Wayne Booth" label="Wayne Booth">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="525.70703" y="-68.016174" z="0.0"></viz:position>
+        <viz:color r="252" g="190" b="4"></viz:color>
+      </node>
+      <node id="Clarissa" label="Clarissa">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="642.38336" y="67.18208" z="0.0"></viz:position>
+        <viz:color r="212" g="9" b="249"></viz:color>
+      </node>
+      <node id="Lennard Davis" label="Lennard Davis">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="777.1903" y="84.87784" z="0.0"></viz:position>
+        <viz:color r="251" g="189" b="6"></viz:color>
+      </node>
+      <node id="Margaret Doody" label="Margaret Doody">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="758.8625" y="139.32927" z="0.0"></viz:position>
+        <viz:color r="249" g="189" b="9"></viz:color>
+      </node>
+      <node id="Frederick Hilles" label="Frederick Hilles">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-226.8048" y="-184.71321" z="0.0"></viz:position>
+        <viz:color r="251" g="189" b="6"></viz:color>
+      </node>
+      <node id="Dorrit Cohn" label="Dorrit Cohn">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="119.3788" y="-704.7864" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="VÔøΩktor Shklovsky" label="VÔøΩktor Shklovsky">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="37.321716" y="-664.27423" z="0.0"></viz:position>
+        <viz:color r="251" g="189" b="6"></viz:color>
+      </node>
+      <node id="Franco Moretti" label="Franco Moretti">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.181818"></viz:size>
+        <viz:position x="350.31113" y="301.29385" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="Jane Spencer" label="Jane Spencer">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="489.7975" y="660.92676" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="Moira Ferguson" label="Moira Ferguson">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="463.9312" y="695.6074" z="0.0"></viz:position>
+        <viz:color r="249" g="189" b="9"></viz:color>
+      </node>
+      <node id="William Spengemann" label="William Spengemann">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="405.15897" y="712.80493" z="0.0"></viz:position>
+        <viz:color r="252" g="190" b="4"></viz:color>
+      </node>
+      <node id="Princess of Cleves" label="Princess of Cleves">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="253.50499" y="286.70065" z="0.0"></viz:position>
+        <viz:color r="212" g="7" b="249"></viz:color>
+      </node>
+      <node id="John Lyons" label="John Lyons">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="7.727273"></viz:size>
+        <viz:position x="184.16228" y="263.5076" z="0.0"></viz:position>
+        <viz:color r="249" g="189" b="9"></viz:color>
+      </node>
+      <node id="Familiar Letters" label="Familiar Letters">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="181.24689" y="-136.53125" z="0.0"></viz:position>
+        <viz:color r="214" g="4" b="252"></viz:color>
+      </node>
+      <node id="Cheryl Nixon" label="Cheryl Nixon">
+        <attvalues>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.454546"></viz:size>
+        <viz:position x="196.40347" y="-205.88316" z="0.0"></viz:position>
+        <viz:color r="254" g="186" b="3"></viz:color>
+      </node>
+      <node id="A Sentimental Journey" label="A Sentimental Journey">
+        <attvalues>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="15.909091"></viz:size>
+        <viz:position x="495.6914" y="230.71872" z="0.0"></viz:position>
+        <viz:color r="213" g="6" b="251"></viz:color>
+      </node>
+      <node id="Lizzie Callaway" label="Lizzie Callaway">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="529.41064" y="356.14987" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="Meegan Kennedy" label="Meegan Kennedy">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="586.4378" y="338.96048" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="R.S. Crane" label="R.S. Crane">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="612.3256" y="294.1868" z="0.0"></viz:position>
+        <viz:color r="243" g="187" b="18"></viz:color>
+      </node>
+      <node id="Deidre Lynch" label="Deidre Lynch">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="131.11578" y="168.35768" z="0.0"></viz:position>
+        <viz:color r="247" g="188" b="13"></viz:color>
+      </node>
+      <node id="Roberta Wolson" label="Roberta Wolson">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="174.0289" y="134.83923" z="0.0"></viz:position>
+        <viz:color r="243" g="187" b="18"></viz:color>
+      </node>
+      <node id="Mark Rose" label="Mark Rose">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="279.56845" y="124.38913" z="0.0"></viz:position>
+        <viz:color r="243" g="187" b="18"></viz:color>
+      </node>
+      <node id="William St. Clair" label="William St. Clair">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="197.4547" y="184.87491" z="0.0"></viz:position>
+        <viz:color r="238" g="185" b="26"></viz:color>
+      </node>
+      <node id="Waverly" label="Waverly">
+        <attvalues>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.181818"></viz:size>
+        <viz:position x="-568.8623" y="-267.97992" z="0.0"></viz:position>
+        <viz:color r="215" g="3" b="253"></viz:color>
+      </node>
+      <node id="Leah Price" label="Leah Price">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-707.5526" y="-269.95602" z="0.0"></viz:position>
+        <viz:color r="251" g="189" b="6"></viz:color>
+      </node>
+      <node id="Ian Duncan" label="Ian Duncan">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-691.8015" y="-319.75735" z="0.0"></viz:position>
+        <viz:color r="249" g="189" b="9"></viz:color>
+      </node>
+      <node id="Katie Trumpener" label="Katie Trumpener">
+        <attvalues>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-694.8438" y="-218.4852" z="0.0"></viz:position>
+        <viz:color r="251" g="189" b="6"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Don Quixote" target="Michel Foucault">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko" target="Clifford Geertz">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko" target="Franco Moretti" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko" target="Jane Spencer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko" target="Moira Ferguson">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko" target="William Spengemann">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="John Bender">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Ian Watt" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Michael McKeon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="John Locke">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Adam Smith">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Karl Marx">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Jean Jacques Rousseau">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Max Weber">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Moll Flanders" target="Raymond Williams">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Moll Flanders" target="Ian Watt" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Moll Flanders" target="Michael McKeon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Love in Excess" target="William Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Love in Excess" target="J. Paul Hunter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Love in Excess" target="Ian Watt">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Michel Foucault">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Raymond Williams">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="William Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="J. Paul Hunter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="James Turner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Sheila Conboy">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Jurgen Habermas" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Terry Eagleton">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Nancy Armstrong" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Ian Watt" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Michael McKeon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Julie Park">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="G. J. Barker-Benfield">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Catherine Ingrassia">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="J. Rosenthal">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Patricia C. Bruckmann">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Terry Castle">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Lori Errico-Seaman and Olivera Jokic">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Cheryl Nixon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Terry Eagleton">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Jill Campbell">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Roy Porter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Ian Watt">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Michael McKeon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Roland Barthes">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Mikhail Bakhtin">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Frederick Hilles">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Castle of Otranto" target="Walter Benjamin">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Sicillian Romance" target="Kate Ellis">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Northanger Abbey" target="Nancy Armstrong">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Northanger Abbey" target="Roland Barthes">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Shamela" target="Michael McKeon" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Shamela" target="Mikhail Bakhtin">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="William Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Jurgen Habermas" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Ian Watt">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Roland Barthes">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="E.P. Thompson">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Alan Macfarlane">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Franco Moretti">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Deidre Lynch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Roberta Wolson">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Mark Rose">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="William St. Clair">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pickwick Papers" target="Benedict Anderson">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Moonstone" target="Michel Foucault">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Moonstone" target="D. A. Miller">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Moonstone" target="Edward Said">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ulysses" target="Fredric Jameson">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A House for Mr. Biswas" target="Homi Bhabha">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Anti-Pamela" target="Jurgen Habermas">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Anti-Pamela" target="Catherine Ingrassia">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Anti-Pamela" target="Carol Lozzaro-Weis">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Woman of Colour" target="Carol Lozzaro-Weis">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Victim of Prejudice" target="Antony E. Simpson">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Victim of Prejudice" target="Sarah Ahmed">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Victim of Prejudice" target="Jack Halberstam">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The History of Pompey the Little" target="Julie Park">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The History of Pompey the Little" target="Mark Blackwell">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="Ian Watt">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="Michael McKeon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="Mikhail Bakhtin">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="Georg Lukacs">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fantomina" target="William Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fantomina" target="Ian Watt" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fantomina" target="Cheryl Nixon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Ian Watt">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Dorrit Cohn">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="VÔøΩktor Shklovsky">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Roxana" target="Wayne Booth">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Clarissa" target="Nancy Armstrong">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Clarissa" target="Lennard Davis">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Clarissa" target="Margaret Doody">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Princess of Cleves" target="John Lyons" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Familiar Letters" target="William Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Familiar Letters" target="Ian Watt">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Familiar Letters" target="Cheryl Nixon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Sentimental Journey" target="Nancy Armstrong">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Sentimental Journey" target="Franco Moretti">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Sentimental Journey" target="Lizzie Callaway">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Sentimental Journey" target="Meegan Kennedy">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Sentimental Journey" target="R.S. Crane">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Waverly" target="Mikhail Bakhtin">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Waverly" target="Leah Price">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Waverly" target="Ian Duncan">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Waverly" target="Katie Trumpener">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

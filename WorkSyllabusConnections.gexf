@@ -1,0 +1,1908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2015-07-21">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="indegree" title="In-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="outdegree" title="Out-Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="weighted indegree" title="Weighted In-Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="weighted outdegree" title="Weighted Out-Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Camilla " label="Camilla ">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="112.32422" y="-567.8428" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="Pride and Prejudice" label="Pride and Prejudice">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-483.97858" y="429.9831" z="0.0"></viz:position>
+        <viz:color r="230" g="253" b="11"></viz:color>
+      </node>
+      <node id="Jacques the Fatalist" label="Jacques the Fatalist">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-597.49976" y="353.94208" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Les Liaisons Dangereuses" label="Les Liaisons Dangereuses">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-552.8177" y="542.9617" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="The Princesse de ClÔøΩves" label="The Princesse de ClÔøΩves">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-648.2151" y="301.42752" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Things as They Are, or Caleb Williams" label="Things as They Are, or Caleb Williams">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="231.13203" y="-597.4505" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Waverley or 'Tis Sixty Years Since" label="Waverley or 'Tis Sixty Years Since">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="321.59015" y="-556.69147" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="Maria; or, the Wrongs of a Woman" label="Maria; or, the Wrongs of a Woman">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="328.98624" y="646.80396" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Roxana" label="Roxana">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="12.058824"></viz:size>
+        <viz:position x="70.654724" y="120.609566" z="0.0"></viz:position>
+        <viz:color r="229" g="249" b="14"></viz:color>
+      </node>
+      <node id="Familiar Letters" label="Familiar Letters">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-788.0877" y="285.15686" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="Eloge de Richardson" label="Eloge de Richardson">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-686.2347" y="495.07086" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Sense and Sensibility" label="Sense and Sensibility">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-582.23083" y="598.95746" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="Persuasion" label="Persuasion">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-759.9526" y="403.24954" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="The Female Quixote" label="The Female Quixote">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="408.26495" y="-222.424" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="The Castle of Otranto" label="The Castle of Otranto">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="5"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="19.117647"></viz:size>
+        <viz:position x="304.43637" y="203.88414" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="The Life of Olaudah Equiano" label="The Life of Olaudah Equiano">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="649.07477" y="-104.504295" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="A Description of the New World Called The Blazing World" label="A Description of the New World Called The Blazing World">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-462.86105" y="-558.8983" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="A Simple Story" label="A Simple Story">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-394.39334" y="-617.2996" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="The Fair Jilt" label="The Fair Jilt">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-587.74756" y="85.70033" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="The Monk" label="The Monk">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-281.42444" y="514.74493" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="The Expedition of Humphry Clinker" label="The Expedition of Humphry Clinker">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-657.1367" y="-128.22383" z="0.0"></viz:position>
+        <viz:color r="214" g="251" b="6"></viz:color>
+      </node>
+      <node id="The Romance of the Forest" label="The Romance of the Forest">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-399.0534" y="-330.80695" z="0.0"></viz:position>
+        <viz:color r="214" g="251" b="6"></viz:color>
+      </node>
+      <node id="Redguantlet" label="Redguantlet">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-706.62646" y="-27.195786" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="The Governess" label="The Governess">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-287.90457" y="-638.357" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="Female Quixote" label="Female Quixote">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-205.28474" y="-661.00726" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="Atonement" label="Atonement">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="100.74878" y="833.8825" z="0.0"></viz:position>
+        <viz:color r="206" g="238" b="26"></viz:color>
+      </node>
+      <node id="Don Quixote" label="Don Quixote">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="90.44904" y="643.6918" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="Clelia" label="Clelia">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-5.939377" y="839.9056" z="0.0"></viz:position>
+        <viz:color r="206" g="238" b="26"></viz:color>
+      </node>
+      <node id="Jane Eyre" label="Jane Eyre">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-802.5011" y="-400.9578" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="The Mill on the Floss" label="The Mill on the Floss">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-757.5922" y="-481.09525" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="A Portrait of the Artist as a Young Man" label="A Portrait of the Artist as a Young Man">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-681.21936" y="-522.75336" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="The Pickwick Papers" label="The Pickwick Papers">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="570.8468" y="580.8919" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="The Moonstone" label="The Moonstone">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="586.4683" y="501.4778" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="Daisy Miller" label="Daisy Miller">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="445.30957" y="677.8786" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="Ulysses" label="Ulysses">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="512.8833" y="627.6902" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="A House for Mr. Biswas" label="A House for Mr. Biswas">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="646.94653" y="449.57758" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="Humphrey Clinker" label="Humphrey Clinker">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="12.058824"></viz:size>
+        <viz:position x="109.411575" y="379.78928" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="Cranford" label="Cranford">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="856.75305" y="-175.67163" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Adam Bede" label="Adam Bede">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="820.2314" y="-276.20184" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="Mrs. Dalloway" label="Mrs. Dalloway">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="866.7198" y="-73.094185" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="The Woman of Colour" label="The Woman of Colour">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="238.09131" y="-1039.74" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="Victim of Prejudice" label="Victim of Prejudice">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="144.23685" y="-1088.0774" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="The History of Pompey the Little" label="The History of Pompey the Little">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="20.524683" y="-985.8653" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="Pilgrim's Progress" label="Pilgrim's Progress">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="589.50964" y="101.29778" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="The Vicar of Wakefield" label="The Vicar of Wakefield">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="586.4968" y="188.03456" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Old Mortality" label="Old Mortality">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="562.39984" y="11.308523" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Delany" label="Delany">
+        <attvalues>
+          <attvalue for="indegree" value="4"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="weighted indegree" value="4.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="15.588236"></viz:size>
+        <viz:position x="-400.39316" y="144.64038" z="0.0"></viz:position>
+        <viz:color r="9" g="230" b="249"></viz:color>
+      </node>
+      <node id="Frankenstein" label="Frankenstein">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="399.2514" y="-470.1746" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="White" label="White">
+        <attvalues>
+          <attvalue for="indegree" value="6"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+          <attvalue for="weighted indegree" value="6.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="22.64706"></viz:size>
+        <viz:position x="-297.92877" y="-67.06759" z="0.0"></viz:position>
+        <viz:color r="4" g="233" b="252"></viz:color>
+      </node>
+      <node id="Love Intrigues" label="Love Intrigues">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-251.92924" y="722.9422" z="0.0"></viz:position>
+        <viz:color r="214" g="251" b="6"></viz:color>
+      </node>
+      <node id="Robinson Crusoe" label="Robinson Crusoe">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="10"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="10.0"></attvalue>
+        </attvalues>
+        <viz:size value="36.76471"></viz:size>
+        <viz:position x="-160.76352" y="20.503849" z="0.0"></viz:position>
+        <viz:color r="229" g="249" b="14"></viz:color>
+      </node>
+      <node id="Wexler" label="Wexler">
+        <attvalues>
+          <attvalue for="indegree" value="6"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+          <attvalue for="weighted indegree" value="6.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="22.64706"></viz:size>
+        <viz:position x="102.906296" y="-75.18471" z="0.0"></viz:position>
+        <viz:color r="4" g="233" b="252"></viz:color>
+      </node>
+      <node id="Moll Flanders" label="Moll Flanders">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="10"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="10.0"></attvalue>
+        </attvalues>
+        <viz:size value="36.76471"></viz:size>
+        <viz:position x="77.55332" y="16.880796" z="0.0"></viz:position>
+        <viz:color r="232" g="252" b="9"></viz:color>
+      </node>
+      <node id="Richter" label="Richter">
+        <attvalues>
+          <attvalue for="indegree" value="11"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="weighted indegree" value="11.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="40.29412"></viz:size>
+        <viz:position x="168.23738" y="-229.52739" z="0.0"></viz:position>
+        <viz:color r="1" g="234" b="254"></viz:color>
+      </node>
+      <node id="Pamela" label="Pamela">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="18"></attvalue>
+          <attvalue for="degree" value="18"></attvalue>
+          <attvalue for="weighted degree" value="18.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="18.0"></attvalue>
+        </attvalues>
+        <viz:size value="65.0"></viz:size>
+        <viz:position x="-58.438316" y="-76.32768" z="0.0"></viz:position>
+        <viz:color r="220" g="254" b="3"></viz:color>
+      </node>
+      <node id="Warner" label="Warner">
+        <attvalues>
+          <attvalue for="indegree" value="16"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="16"></attvalue>
+          <attvalue for="weighted degree" value="16.0"></attvalue>
+          <attvalue for="weighted indegree" value="16.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="57.941177"></viz:size>
+        <viz:position x="-444.96402" y="237.2366" z="0.0"></viz:position>
+        <viz:color r="6" g="232" b="251"></viz:color>
+      </node>
+      <node id="Tom Jones" label="Tom Jones">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="11"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="11.0"></attvalue>
+        </attvalues>
+        <viz:size value="40.29412"></viz:size>
+        <viz:position x="119.456345" y="186.45094" z="0.0"></viz:position>
+        <viz:color r="229" g="249" b="14"></viz:color>
+      </node>
+      <node id="Damrosch &amp; Trujillo" label="Damrosch &amp; Trujillo">
+        <attvalues>
+          <attvalue for="indegree" value="10"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+          <attvalue for="weighted indegree" value="10.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="36.76471"></viz:size>
+        <viz:position x="-312.0757" y="335.9526" z="0.0"></viz:position>
+        <viz:color r="4" g="233" b="252"></viz:color>
+      </node>
+      <node id="Tristram Shandy" label="Tristram Shandy">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="13"></attvalue>
+          <attvalue for="degree" value="13"></attvalue>
+          <attvalue for="weighted degree" value="13.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="13.0"></attvalue>
+        </attvalues>
+        <viz:size value="47.352943"></viz:size>
+        <viz:position x="-74.1507" y="-245.615" z="0.0"></viz:position>
+        <viz:color r="215" g="252" b="4"></viz:color>
+      </node>
+      <node id="Stevens" label="Stevens">
+        <attvalues>
+          <attvalue for="indegree" value="6"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+          <attvalue for="weighted indegree" value="6.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="22.64706"></viz:size>
+        <viz:position x="51.67075" y="-159.29922" z="0.0"></viz:position>
+        <viz:color r="4" g="233" b="252"></viz:color>
+      </node>
+      <node id="Clarissa" label="Clarissa">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="6.0"></attvalue>
+        </attvalues>
+        <viz:size value="22.64706"></viz:size>
+        <viz:position x="-200.42165" y="206.30017" z="0.0"></viz:position>
+        <viz:color r="232" g="252" b="9"></viz:color>
+      </node>
+      <node id="Shaffer" label="Shaffer">
+        <attvalues>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+          <attvalue for="weighted indegree" value="7.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="26.176472"></viz:size>
+        <viz:position x="177.42847" y="290.6938" z="0.0"></viz:position>
+        <viz:color r="9" g="230" b="249"></viz:color>
+      </node>
+      <node id="GulliverÔøΩs Travels " label="GulliverÔøΩs Travels ">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="326.4735" y="116.11824" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Birns" label="Birns">
+        <attvalues>
+          <attvalue for="indegree" value="9"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="9.0"></attvalue>
+          <attvalue for="weighted indegree" value="9.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="33.235294"></viz:size>
+        <viz:position x="284.7907" y="12.21511" z="0.0"></viz:position>
+        <viz:color r="4" g="233" b="252"></viz:color>
+      </node>
+      <node id="Candide" label="Candide">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-134.5704" y="554.2142" z="0.0"></viz:position>
+        <viz:color r="213" g="249" b="9"></viz:color>
+      </node>
+      <node id="Bloom" label="Bloom">
+        <attvalues>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="weighted indegree" value="8.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="29.705883"></viz:size>
+        <viz:position x="54.078167" y="314.52994" z="0.0"></viz:position>
+        <viz:color r="13" g="222" b="247"></viz:color>
+      </node>
+      <node id="Oroonoko, or The Royal Slave" label="Oroonoko, or The Royal Slave">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="9"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+          <attvalue for="weighted degree" value="9.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="9.0"></attvalue>
+        </attvalues>
+        <viz:size value="33.235294"></viz:size>
+        <viz:position x="-195.48929" y="-93.42487" z="0.0"></viz:position>
+        <viz:color r="229" g="249" b="14"></viz:color>
+      </node>
+      <node id="Nestvold" label="Nestvold">
+        <attvalues>
+          <attvalue for="indegree" value="4"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="weighted indegree" value="4.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="15.588236"></viz:size>
+        <viz:position x="201.5734" y="-122.74655" z="0.0"></viz:position>
+        <viz:color r="4" g="233" b="252"></viz:color>
+      </node>
+      <node id="Love in Excess" label="Love in Excess">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="5"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="19.117647"></viz:size>
+        <viz:position x="-11.933546" y="-343.11484" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Morillo" label="Morillo">
+        <attvalues>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="weighted indegree" value="8.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="29.705883"></viz:size>
+        <viz:position x="-323.12494" y="-217.22192" z="0.0"></viz:position>
+        <viz:color r="6" g="232" b="251"></viz:color>
+      </node>
+      <node id="Joseph Andrews" label="Joseph Andrews">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="10"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="10.0"></attvalue>
+        </attvalues>
+        <viz:size value="36.76471"></viz:size>
+        <viz:position x="-259.3601" y="58.755474" z="0.0"></viz:position>
+        <viz:color r="232" g="253" b="8"></viz:color>
+      </node>
+      <node id="Porter" label="Porter">
+        <attvalues>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="weighted indegree" value="8.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="29.705883"></viz:size>
+        <viz:position x="-314.32727" y="177.79636" z="0.0"></viz:position>
+        <viz:color r="13" g="228" b="247"></viz:color>
+      </node>
+      <node id="Evelina" label="Evelina">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="12"></attvalue>
+          <attvalue for="degree" value="12"></attvalue>
+          <attvalue for="weighted degree" value="12.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="12.0"></attvalue>
+        </attvalues>
+        <viz:size value="43.823532"></viz:size>
+        <viz:position x="-35.870422" y="103.105675" z="0.0"></viz:position>
+        <viz:color r="231" g="251" b="11"></viz:color>
+      </node>
+      <node id="Knight" label="Knight">
+        <attvalues>
+          <attvalue for="indegree" value="11"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="weighted indegree" value="11.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="40.29412"></viz:size>
+        <viz:position x="-376.79874" y="23.402224" z="0.0"></viz:position>
+        <viz:color r="9" g="230" b="249"></viz:color>
+      </node>
+      <node id="Castle Rackrent" label="Castle Rackrent">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="442.8331" y="-340.7361" z="0.0"></viz:position>
+        <viz:color r="209" g="243" b="18"></viz:color>
+      </node>
+      <node id="Reed" label="Reed">
+        <attvalues>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+          <attvalue for="weighted indegree" value="7.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="26.176472"></viz:size>
+        <viz:position x="487.68835" y="-99.53943" z="0.0"></viz:position>
+        <viz:color r="6" g="232" b="251"></viz:color>
+      </node>
+      <node id="Mansfield Park" label="Mansfield Park">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="12.058824"></viz:size>
+        <viz:position x="-181.02153" y="-186.17426" z="0.0"></viz:position>
+        <viz:color r="214" g="251" b="6"></viz:color>
+      </node>
+      <node id="Barchas" label="Barchas">
+        <attvalues>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="weighted indegree" value="8.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="29.705883"></viz:size>
+        <viz:position x="53.655426" y="-247.84114" z="0.0"></viz:position>
+        <viz:color r="4" g="233" b="252"></viz:color>
+      </node>
+      <node id="The Man of Feeling" label="The Man of Feeling">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="12.058824"></viz:size>
+        <viz:position x="418.8374" y="156.92058" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Harwood" label="Harwood">
+        <attvalues>
+          <attvalue for="indegree" value="15"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="15"></attvalue>
+          <attvalue for="weighted degree" value="15.0"></attvalue>
+          <attvalue for="weighted indegree" value="15.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="54.411766"></viz:size>
+        <viz:position x="199.75359" y="81.9137" z="0.0"></viz:position>
+        <viz:color r="6" g="232" b="251"></viz:color>
+      </node>
+      <node id="A Sicilian Romance" label="A Sicilian Romance">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="3"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="12.058824"></viz:size>
+        <viz:position x="173.18208" y="471.4089" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Melani" label="Melani">
+        <attvalues>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+          <attvalue for="weighted indegree" value="7.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="26.176472"></viz:size>
+        <viz:position x="12.140203" y="212.47755" z="0.0"></viz:position>
+        <viz:color r="1" g="234" b="254"></viz:color>
+      </node>
+      <node id="Fantomina: or, Love in a Maze" label="Fantomina: or, Love in a Maze">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-403.23123" y="499.60565" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Lynch" label="Lynch">
+        <attvalues>
+          <attvalue for="indegree" value="10"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+          <attvalue for="weighted indegree" value="10.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="36.76471"></viz:size>
+        <viz:position x="-93.7623" y="345.23474" z="0.0"></viz:position>
+        <viz:color r="4" g="233" b="252"></viz:color>
+      </node>
+      <node id="Shamela" label="Shamela">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="7"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="7.0"></attvalue>
+        </attvalues>
+        <viz:size value="26.176472"></viz:size>
+        <viz:position x="-170.37149" y="112.52025" z="0.0"></viz:position>
+        <viz:color r="229" g="249" b="14"></viz:color>
+      </node>
+      <node id="Maruca" label="Maruca">
+        <attvalues>
+          <attvalue for="indegree" value="11"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="weighted indegree" value="11.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="40.29412"></viz:size>
+        <viz:position x="-210.13605" y="-279.3422" z="0.0"></viz:position>
+        <viz:color r="6" g="232" b="251"></viz:color>
+      </node>
+      <node id="A Sentimental Journey" label="A Sentimental Journey">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="15.588236"></viz:size>
+        <viz:position x="-236.19302" y="431.7324" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Cahill" label="Cahill">
+        <attvalues>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="weighted indegree" value="8.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="29.705883"></viz:size>
+        <viz:position x="18.381641" y="440.2214" z="0.0"></viz:position>
+        <viz:color r="9" g="230" b="249"></viz:color>
+      </node>
+      <node id="Northanger Abbey" label="Northanger Abbey">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="7"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="7.0"></attvalue>
+        </attvalues>
+        <viz:size value="26.176472"></viz:size>
+        <viz:position x="-89.17074" y="224.24733" z="0.0"></viz:position>
+        <viz:color r="229" g="249" b="14"></viz:color>
+      </node>
+      <node id="Buurma" label="Buurma">
+        <attvalues>
+          <attvalue for="indegree" value="10"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+          <attvalue for="weighted indegree" value="10.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="36.76471"></viz:size>
+        <viz:position x="259.9338" y="328.45892" z="0.0"></viz:position>
+        <viz:color r="13" g="228" b="247"></viz:color>
+      </node>
+      <node id="Emma" label="Emma">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="4"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="4.0"></attvalue>
+        </attvalues>
+        <viz:size value="15.588236"></viz:size>
+        <viz:position x="-486.98022" y="-31.940248" z="0.0"></viz:position>
+        <viz:color r="212" g="247" b="13"></viz:color>
+      </node>
+      <node id="Gunn" label="Gunn">
+        <attvalues>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+          <attvalue for="weighted indegree" value="7.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="26.176472"></viz:size>
+        <viz:position x="-436.21738" y="-254.07762" z="0.0"></viz:position>
+        <viz:color r="4" g="233" b="252"></viz:color>
+      </node>
+      <node id="Anti-Pamela" label="Anti-Pamela">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="2"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="2.0"></attvalue>
+        </attvalues>
+        <viz:size value="8.529411"></viz:size>
+        <viz:position x="-83.94431" y="-662.1895" z="0.0"></viz:position>
+        <viz:color r="214" g="251" b="6"></viz:color>
+      </node>
+      <node id="Kugler" label="Kugler">
+        <attvalues>
+          <attvalue for="indegree" value="5"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="weighted indegree" value="5.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="19.117647"></viz:size>
+        <viz:position x="72.06377" y="-731.92206" z="0.0"></viz:position>
+        <viz:color r="6" g="232" b="251"></viz:color>
+      </node>
+      <node id="Belinda" label="Belinda">
+        <attvalues>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="1"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="weighted indegree" value="0.0"></attvalue>
+          <attvalue for="weighted outdegree" value="1.0"></attvalue>
+        </attvalues>
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-689.32855" y="-220.9549" z="0.0"></viz:position>
+        <viz:color r="214" g="251" b="6"></viz:color>
+      </node>
+      <node id="Frank" label="Frank">
+        <attvalues>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="0"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+          <attvalue for="weighted indegree" value="7.0"></attvalue>
+          <attvalue for="weighted outdegree" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="26.176472"></viz:size>
+        <viz:position x="-396.152" y="-84.49095" z="0.0"></viz:position>
+        <viz:color r="3" g="233" b="253"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Camilla " target="Wexler">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pride and Prejudice" target="Damrosch &amp; Trujillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pride and Prejudice" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Jacques the Fatalist" target="Damrosch &amp; Trujillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Les Liaisons Dangereuses" target="Damrosch &amp; Trujillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Princesse de ClÔøΩves" target="Damrosch &amp; Trujillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Princesse de ClÔøΩves" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Things as They Are, or Caleb Williams" target="Richter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Waverley or 'Tis Sixty Years Since" target="Richter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Maria; or, the Wrongs of a Woman" target="Shaffer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Roxana" target="Stevens">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Roxana" target="Birns">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Roxana" target="Porter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Familiar Letters" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Eloge de Richardson" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Sense and Sensibility" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Persuasion" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Female Quixote" target="Birns">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Female Quixote" target="Barchas">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Castle of Otranto" target="Birns">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Castle of Otranto" target="Cahill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Castle of Otranto" target="Bloom">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Castle of Otranto" target="Reed">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Castle of Otranto" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Life of Olaudah Equiano" target="Birns">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Description of the New World Called The Blazing World" target="Morillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Simple Story" target="Morillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Fair Jilt" target="Porter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Fair Jilt" target="Knight">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Monk" target="Porter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Monk" target="Lynch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Expedition of Humphry Clinker" target="Knight">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Romance of the Forest" target="Knight">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Romance of the Forest" target="Maruca">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Redguantlet" target="Knight">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Governess" target="Maruca">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Female Quixote" target="Maruca">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Atonement" target="Cahill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Don Quixote" target="Cahill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Don Quixote" target="Bloom">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Clelia" target="Cahill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Jane Eyre" target="Gunn">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Mill on the Floss" target="Gunn">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Portrait of the Artist as a Young Man" target="Gunn">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Pickwick Papers" target="Buurma">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Moonstone" target="Buurma">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Daisy Miller" target="Buurma">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ulysses" target="Buurma">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A House for Mr. Biswas" target="Buurma">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Humphrey Clinker" target="Melani">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Humphrey Clinker" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Humphrey Clinker" target="Lynch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cranford" target="Reed">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Adam Bede" target="Reed">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Mrs. Dalloway" target="Reed">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Woman of Colour" target="Kugler">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Victim of Prejudice" target="Kugler">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The History of Pompey the Little" target="Kugler">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pilgrim's Progress" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Vicar of Wakefield" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Old Mortality" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Frankenstein" target="Barchas">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Love Intrigues" target="Lynch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Wexler">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Damrosch &amp; Trujillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Morillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Knight">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Maruca">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Gunn">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Buurma">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Melani">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Robinson Crusoe" target="White">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Moll Flanders" target="Wexler">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Moll Flanders" target="Richter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Moll Flanders" target="Shaffer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Moll Flanders" target="Nestvold">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Moll Flanders" target="Bloom">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Moll Flanders" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Moll Flanders" target="Delany">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Moll Flanders" target="Barchas">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Moll Flanders" target="Lynch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Moll Flanders" target="Frank">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Wexler">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Richter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Birns">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Nestvold">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Morillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Porter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Maruca">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Cahill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Gunn">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Bloom">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Buurma">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Kugler">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Barchas">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="White">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Lynch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pamela" target="Frank">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Wexler">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Damrosch &amp; Trujillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Shaffer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Stevens">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Birns">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Nestvold">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Knight">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Bloom">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Reed">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tom Jones" target="Delany">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Wexler">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Damrosch &amp; Trujillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Richter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Stevens">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Birns">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Morillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Knight">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Gunn">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Melani">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Reed">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="White">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tristram Shandy" target="Frank">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Clarissa" target="Damrosch &amp; Trujillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Clarissa" target="Shaffer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Clarissa" target="Stevens">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Clarissa" target="Knight">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Clarissa" target="Melani">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Clarissa" target="Delany">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="GulliverÔøΩs Travels " target="Damrosch &amp; Trujillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="GulliverÔøΩs Travels " target="Birns">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Candide" target="Damrosch &amp; Trujillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Candide" target="Bloom">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko, or The Royal Slave" target="Richter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko, or The Royal Slave" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko, or The Royal Slave" target="Nestvold">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko, or The Royal Slave" target="Porter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko, or The Royal Slave" target="Knight">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko, or The Royal Slave" target="Maruca">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko, or The Royal Slave" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko, or The Royal Slave" target="Barchas">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Oroonoko, or The Royal Slave" target="Frank">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Love in Excess" target="Richter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Love in Excess" target="Stevens">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Love in Excess" target="Morillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Love in Excess" target="Maruca">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Love in Excess" target="Barchas">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="Richter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="Morillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="Porter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="Maruca">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="Melani">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="White">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="Lynch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Joseph Andrews" target="Frank">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Richter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Shaffer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Stevens">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Porter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Knight">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Buurma">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Melani">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Barchas">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="White">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Evelina" target="Lynch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Castle Rackrent" target="Richter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Castle Rackrent" target="Reed">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Mansfield Park" target="Richter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Mansfield Park" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Mansfield Park" target="Barchas">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Man of Feeling" target="Shaffer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Man of Feeling" target="Birns">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="The Man of Feeling" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Sicilian Romance" target="Shaffer">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Sicilian Romance" target="Bloom">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Sicilian Romance" target="Melani">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fantomina: or, Love in a Maze" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Fantomina: or, Love in a Maze" target="Lynch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Shamela" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Shamela" target="Morillo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Shamela" target="Maruca">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Shamela" target="Cahill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Shamela" target="Buurma">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Shamela" target="White">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Shamela" target="Lynch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Sentimental Journey" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Sentimental Journey" target="Porter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Sentimental Journey" target="Cahill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="A Sentimental Journey" target="Lynch">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Northanger Abbey" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Northanger Abbey" target="Knight">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Northanger Abbey" target="Maruca">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Northanger Abbey" target="Cahill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Northanger Abbey" target="Bloom">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Northanger Abbey" target="Buurma">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Northanger Abbey" target="Harwood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Emma" target="Warner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Emma" target="Gunn">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Emma" target="Delany">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Emma" target="Frank">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Anti-Pamela" target="Maruca">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Anti-Pamela" target="Kugler">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Belinda" target="Frank">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
